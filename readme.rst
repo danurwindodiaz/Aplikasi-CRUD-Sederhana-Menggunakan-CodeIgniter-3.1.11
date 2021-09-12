@@ -1,7 +1,10 @@
-# Aplikasi CRUD Sederhana Menggunakan CodeIgniter
+################### 
+Aplikasi CRUD Sederhana Menggunakan CodeIgniter
+###################
+
 Aplikasi CRUD pengolahan data barang sederhana. Aplikasi ini dibangun dengan framework Codeigniter. Terdapat 2 level pengguna yaitu admin dan operator dengan pembagian hak akses sebagai berikut :
-> admin : dapat mengelola semua data (Kategori, merek, dan Produk)
-> Operator : Hanya dapat mengelola data produk
+- admin : dapat mengelola semua data (Kategori, merek, dan Produk)
+- Operator : Hanya dapat mengelola data produk
 
 ###################
 What is CodeIgniter
