@@ -7,6 +7,15 @@ Aplikasi CRUD pengolahan data barang sederhana. Aplikasi ini dibangun dengan fra
 -  admin : dapat mengelola semua data (Kategori, merek, dan Produk)
 -  Operator : Hanya dapat mengelola data produk
 
+################### 
+Tampilan Sistem
+###################
+![Image 001](https://user-images.githubusercontent.com/90291471/133169801-217af7b7-8885-4136-9059-8942a6e39529.png)
+![Image 002](https://user-images.githubusercontent.com/90291471/133169802-da9671a7-795b-44d1-a26f-299c194f2eec.png)
+![Image 003](https://user-images.githubusercontent.com/90291471/133169805-bc0e7dbd-ec40-47b3-b233-9f38b8437f0f.png)
+![Image 004](https://user-images.githubusercontent.com/90291471/133169807-a3be3e03-1ace-49f0-b3c4-d6b00af51465.png)
+![Image 005](https://user-images.githubusercontent.com/90291471/133169809-2c39bd19-3fd7-4501-84f0-9cb8a3aae60a.png)
+
 ###################
 What is CodeIgniter
 ###################
